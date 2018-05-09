@@ -23,18 +23,18 @@
 	<key>STORAGE_BUCKET</key>
 	<string>flash-chat-410f6.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:333777562569:ios:88582873fdc74ad4</string>
 	<key>DATABASE_URL</key>
-	<string>https://flash-chat-410f6.firebaseio.com</string>
+	<string></string>
 </dict>
 </plist>
