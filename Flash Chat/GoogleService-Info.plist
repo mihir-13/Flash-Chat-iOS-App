@@ -7,13 +7,13 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>333777562569-0ef05icrj5ifasakk1q0spdpf3ip9vnr.apps.googleusercontent.com</string>
+    <string>{{EnterClientId}}</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.333777562569-0ef05icrj5ifasakk1q0spdpf3ip9vnr</string>
+    <string>{{EnterRclientId}}</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCz9eiXbjpV7XueZTJ4r-s57tAfL3hsDEQ</string>
+    <string>{{EnterAPiKey}}</string>
 	<key>GCM_SENDER_ID</key>
-	<string>333777562569</string>
+    <string>{{EnterGCMSenderId}}</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
@@ -21,7 +21,7 @@
 	<key>PROJECT_ID</key>
 	<string>flash-chat-410f6</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flash-chat-410f6.appspot.com</string>
+	<string></string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:333777562569:ios:88582873fdc74ad4</string>
+	<string></string>
 	<key>DATABASE_URL</key>
 	<string></string>
 </dict>
